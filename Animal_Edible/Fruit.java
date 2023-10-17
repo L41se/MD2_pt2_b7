@@ -2,7 +2,7 @@ package Animal_Edible;
 
 public abstract class Fruit implements Edible{
     @Override
-    public String howtoEat(){
+    public String howtoEat() {
         return "";
     }
 }
